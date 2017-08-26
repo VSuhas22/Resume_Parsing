@@ -1,6 +1,6 @@
 import tika
 from tika import parser
-import re
+import regex as re
 
 
 class ResumeParsing:
